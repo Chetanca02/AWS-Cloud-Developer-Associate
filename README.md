@@ -1,19 +1,8 @@
-Love this phase 😄 AWS Cloud Associate is a *great* foundation, and the right study notes make a **huge difference**.
-
-Let’s do this properly and **systematically**, not random service-by-service. I’ll help you build **exam-oriented, copy-paste-ready Markdown notes** with:
-
-* simple **real-world analogies**
-* **why/when to use** (not just what)
-* **exam traps & keywords**
-* clean tables and diagrams (ASCII where useful)
-
----
-
-## 🧭 How We’ll Structure the Course Material
+# 🧭 How We’ll Structure the Course Material
 
 We’ll align closely with **AWS Certified Cloud Practitioner (CLF-C02)** style thinking.
 
-### Core Modules (in exam order)
+## Core Modules (in exam order)
 
 1. **Cloud Computing Fundamentals**
 2. **AWS Global Infrastructure**
